@@ -14,3 +14,7 @@
     display: flex;
     align-items: center;
 }
+
+.players-data h6 {
+    font-size: 20px;
+}
